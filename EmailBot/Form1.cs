@@ -18,6 +18,7 @@ namespace EmailBot
         public Form1()
         {
 //01
+//02
             InitializeComponent();
         }
 
