@@ -1,0 +1,9 @@
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\bin\Debug\EmailBot.exe.config
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\bin\Debug\EmailBot.exe
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\bin\Debug\EmailBot.pdb
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\obj\Debug\EmailBot.csprojResolveAssemblyReference.cache
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\obj\Debug\EmailBot.Form1.resources
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\obj\Debug\EmailBot.Properties.Resources.resources
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\obj\Debug\EmailBot.csproj.GenerateResource.Cache
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\obj\Debug\EmailBot.exe
+C:\MyFolder\С#\EmailBot\EmailBot\EmailBot\obj\Debug\EmailBot.pdb
